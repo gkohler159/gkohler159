@@ -1,10 +1,11 @@
 ## Hi there 👋
 Profile Under Construction
 
-##Work Github
+## Introduction
+Hybrid Software Engineer/QA Engineer who loves to work on a variety of projects
+
+## Current Projects and Work 🔭
 OptiTrack: https://github.com/grace-kohler 
-
-
 
 
 <!--
