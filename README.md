@@ -1,24 +1,21 @@
-## Hi there 👋
-Profile Under Construction
 
-## Introduction
-Hybrid Software Engineer/QA Engineer who loves to work on a variety of projects
+<div align="center">
 
-## Current Projects and Work 🔭
-OptiTrack: https://github.com/grace-kohler 
+## Hi there 👋 I'm Grace 
+Developer • QA Engineer • Linux Specialist 
+
+### Tech Stack Highlights
+[![Proficiencies](https://skillicons.dev/icons?i=py,cpp,linux,react,&perline=8)](https://github.com/gkohler159)
+
+## Current Work
+    • QA Engineer at Optitrack, hybridizing into Software Development
+    • Finishing Bachelors of Computer Science (Spring 2026)
+
+## Professional Repositories
+[![Optitrack](https://skillicons.dev/icons?i=github)](https://github.com/grace-kohler)
+
+[**Optitrack**](https://github.com/grace-kohler)
 
 
-<!--
-**gkohler159/gkohler159** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+</div>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
