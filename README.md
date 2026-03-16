@@ -2,10 +2,10 @@
 <div align="center">
 
 ## Hi there 👋 I'm Grace 
-Developer • QA Engineer • Linux Specialist 
+Developer • QA Engineer • Linux Specialist • MoCap • Networks
 
 ### Tech Stack Highlights
-[![Proficiencies](https://skillicons.dev/icons?i=py,cpp,linux,react,&perline=8)](https://github.com/gkohler159)
+[![Proficiencies](https://skillicons.dev/icons?i=py,cpp,linux,react,mongodb&perline=8)](https://github.com/gkohler159)
 
 ## Current Work
 • QA Engineer at Optitrack, hybridizing into Software Development
