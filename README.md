@@ -2,13 +2,13 @@
 <div align="center">
 
 ## Hi there 👋 I'm Grace 
-Developer • QA Engineer • Linux Specialist • MoCap • Networks
+Associate Software Engineer • Linux Specialist • MoCap • Networks
 
 ### Tech Stack Highlights
 [![Proficiencies](https://skillicons.dev/icons?i=py,cpp,linux,react,mongodb&perline=8)](https://github.com/gkohler159)
 
 ## Current Work
-• QA Engineer at Optitrack, hybridizing into Software Development
+• Associate Software Engineer at Optitrack
 
 • Finishing Bachelors of Computer Science (Spring 2026)
 
