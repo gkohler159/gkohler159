@@ -2,7 +2,7 @@
 <div align="center">
 
 ## Hi there 👋 I'm Grace 
-Associate Software Engineer • Linux Specialist • MoCap • Networks • QA Automation
+Software Engineer • Linux Specialist • MoCap • Networks • QA Automation
 
 ### Tech Stack Highlights
 [![Proficiencies](https://skillicons.dev/icons?i=py,cpp,linux,react,mongodb&perline=8)](https://github.com/gkohler159)
